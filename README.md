@@ -2,6 +2,7 @@
 
 ### Name - Iswarya P
 ### Register no - 212223230082
+### Date - 19-09-2024
 
 ## AIM
 To write a yacc program to recognize a valid arithmetic expression that uses operator +,- ,* and /.
